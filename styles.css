@@ -36,6 +36,14 @@ img {
   margin: 30px;
 }
 
+button {
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  font-size: 20px;
+  border-color: rgb(136, 136, 225);
+}
+
 #fruit-info {
   display: flex;
   flex-flow: row wrap;
